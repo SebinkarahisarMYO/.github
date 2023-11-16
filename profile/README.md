@@ -18,7 +18,7 @@ Github Hesabına Hoşgeldiniz.
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ezfesoft&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SebinkarahisarMYO&icon=5&color=0)](https://visitcount.itsvg.in)
 <!--
 
 **Here are some ideas to get you started:**
