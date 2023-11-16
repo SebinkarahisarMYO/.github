@@ -1,8 +1,14 @@
 ## Herkese Merhaba 👋
 
 #Giresun Üniversitesi
+
+
 #Şebinkarahisar MYO
+
+
 #Github Hesabına Hoşgeldiniz.
+
+
 
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebinkarahisar_bgt23@googlegroups.com?Subject=Merhaba%21&Body=Merhaba%2C%0AGithub%20%FCzerinden%20ula%u015F%u0131yorum.%0A%0ABen%20__) 
 
