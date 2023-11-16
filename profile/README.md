@@ -18,7 +18,7 @@ Github Hesabına Hoşgeldiniz.
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SebinkarahisarMYO&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SebinkarahisarMYO&label=G%C3%B6r%C3%BCnt%C3%BClenme%20Say%C4%B1s%C4%B1&icon=6&pretty=true)](https://visitcount.itsvg.in)
 <!--
 
 **Here are some ideas to get you started:**
