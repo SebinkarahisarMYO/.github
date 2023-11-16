@@ -1,12 +1,12 @@
 ## Herkese Merhaba 👋
 
-#Giresun Üniversitesi
+Giresun Üniversitesi
 
 
-#Şebinkarahisar MYO
+Şebinkarahisar MYO
 
 
-#Github Hesabına Hoşgeldiniz.
+Github Hesabına Hoşgeldiniz.
 
 
 
