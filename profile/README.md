@@ -1,4 +1,9 @@
-## Hi there 👋
+## Herkese Merhaba 👋
+
+Giresun Üniversitesi
+Şebinkarahisar MYO
+Github Hesabına Hoşgeldiniz.
+
 
 <!--
 
